@@ -2,6 +2,11 @@
 
 > 一种下拉输入组件，支持本地数据和网络数据，支持数据筛选。
 
+
+## 在线预览
+ [codepen 地址](https://codepen.io/dajiangjun/pen/RydOvB?editors=1111)
+
+
 ## 安装
 
 通过在 head 里面引入 js 文件来进行组件初始化。
